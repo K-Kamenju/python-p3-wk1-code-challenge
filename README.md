@@ -1,3 +1,16 @@
+# Python Week 1 - Code Challenge
+
+The code challenge involves coming up with solutions to three challenges that will be described below.
+
+## Project Setup
+
+1. Create a new project folder.
+2. Create a new GitHub repository
+3. Please make sure you regularly commit to the repository.
+4. Ensure to add a READEME.md file
+5. Add a License file, preferrably the MIT license
+6. Ensure to organize your python solution in a lib folder
+
 ## `Challenge 1: 12-hour to 24-hour Time Conversion`
 
 This code provides a solution to the challenge of converting a 12-hour time format to a 24-hour time format. The function takes an hour (in the range of 1 to 12, inclusive), a minute (in the range of 0 to 59, inclusive), and a period ("am" or "pm") as input and returns a four-digit string representing the time in 24-hour format.
